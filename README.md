@@ -1,11 +1,9 @@
-## RETFound - A foundation model for retinal imaging
+## A Deep Learning System for Population-level Silent Brain Infarction Detection and Stroke Risk Prediction from Retinal Photographs
 
 
-Official repo for [RETFound: a foundation model for generalizable disease detection from retinal images](https://www.nature.com/articles/s41586-023-06555-x), which is based on [MAE](https://github.com/facebookresearch/mae):
+Official repo for [A Deep Learning System for Population-level Silent Brain Infarction Detection and Stroke Risk Prediction from Retinal Photographs]
 
-Please contact 	**ykzhoua@gmail.com** or **yukun.zhou.19@ucl.ac.uk** if you have questions.
-
-Keras version implemented by Yuka Kihara can be found [here](https://github.com/uw-biomedical-ml/RETFound_MAE)
+Please contact **njiang2021@sjtu.edu.cn** if you have questions.
 
 
 ### 📝Key features
